@@ -8,11 +8,18 @@
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
+FreeCodeCamp Podcast
 
 # Additional Resources on the #100DaysOfCode
+FreeCodeCamp
+Khan Academy
+Web Developer Bootcamp by Udemy
+
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+2. Code Analogies
+3. W3 Schools
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
