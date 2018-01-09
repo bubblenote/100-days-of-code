@@ -11,9 +11,9 @@
 FreeCodeCamp Podcast
 
 # Additional Resources on the #100DaysOfCode
-FreeCodeCamp
-Khan Academy
-Web Developer Bootcamp by Udemy
+1.FreeCodeCamp
+2.Khan Academy
+3.Web Developer Bootcamp by Udemy
 
 
 ## Helpful Articles
